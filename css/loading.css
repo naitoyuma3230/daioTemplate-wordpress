@@ -5,7 +5,7 @@
 	position: fixed;
 	width: 100%;
 	height: 100%;
-	background: rgb(100, 100, 100);
+	background: #0c6b41;
 	z-index: 9999999;
 	text-align: center;
 	color: #fff;
@@ -21,7 +21,7 @@
 /*========= 画面遷移のためのCSS ===============*/
 
 body {
-	background: rgb(100, 100, 100);
+	background: #0c6b41;
 }
 
 body.appear {
@@ -54,7 +54,7 @@ body.appear .splashbg1 {
 	top: 0;
 	left: 50%;
 	transform: scaleX(1);
-	background-color: rgb(100, 100, 100); /*伸びる背景色の設定*/
+	background-color: #0c6b41; /*伸びる背景色の設定*/
 }
 
 @keyframes PageAnime {
@@ -85,7 +85,7 @@ body.appear .splashbg2 {
 	top: 0;
 	right: 50%;
 	transform: scaleX(1);
-	background-color: rgb(100, 100, 100); /*伸びる背景色の設定*/
+	background-color: #0c6b41; /*伸びる背景色の設定*/
 }
 
 @keyframes PageAnime2 {

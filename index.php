@@ -541,8 +541,8 @@
                   <dl>
                     <dt>1989年</dt>
                     <div>
-                      <div class="list-box">
-                        <h5>中国・天津市で誕生</h5>
+                      <div class="list-box-no-outline">
+                        <h5>中国天津市で誕生</h5>
                       </div>
                     </div>
                   </dl>
@@ -644,7 +644,7 @@
   <script src="<?php echo (get_theme_file_uri()); ?>/js/nav.js"></script>
   <script src="<?php echo (get_theme_file_uri()); ?>/js/myjs.js"></script>
   <script src="<?php echo (get_theme_file_uri()); ?>/js/scroll.js"></script>
-  <script src="<?php echo (get_theme_file_uri()); ?>/js/loading.js"></script>
+  <!-- <script src="<?php echo (get_theme_file_uri()); ?>/js/loading.js"></script> -->
   <?php wp_footer() ?>
 </body>
 
